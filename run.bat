@@ -1,0 +1,1 @@
+start javaw -Dsun.java2d.uiScale=1 src.Main
